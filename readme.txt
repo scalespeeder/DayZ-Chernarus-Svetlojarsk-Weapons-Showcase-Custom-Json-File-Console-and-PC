@@ -22,6 +22,7 @@ Firemans Helmet = Fire Stations.
 Surgical Hat = Medical Areas.
 Netting = Coastal Areas.
 Wellington Boots = Farms.
+Hand-cuffs = Prison.
 
 Many Thanks To Inclement Dab for his amazing DayZ Editor that makes this all possible: https://steamcommunity.com/sharedfiles/filedetails/?id=2250764298
 

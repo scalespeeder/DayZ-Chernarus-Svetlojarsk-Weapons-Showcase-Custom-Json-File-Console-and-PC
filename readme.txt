@@ -8,6 +8,21 @@ Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com 
 
 If you'd like to edit & customize my Weapons Showcase, simply load "gun-show.dze" into DayZ Editor.
 
+The items included on the tables indicate where the weapon may be found:
+
+Apple = Village.
+Cereal = Town.
+Police Jacket = Police Stations / Guard Houses.
+Green Helmet = Military Areas.
+Gas Mask = Contaminated Gas Zones (Permenant).
+Flight Helmet = Dynamic Event (usually Helicopters, maybe trains.)
+Radar Cap = Trains (probably.)
+Binoculars = Hunting Areas.
+Firemans Helmet = Fire Stations.
+Surgical Hat = Medical Areas.
+Netting = Coastal Areas.
+Wellington Boots = Farms.
+
 Many Thanks To Inclement Dab for his amazing DayZ Editor that makes this all possible: https://steamcommunity.com/sharedfiles/filedetails/?id=2250764298
 
 TERMS OF USE

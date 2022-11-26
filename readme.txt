@@ -68,11 +68,11 @@ This file tells your server to access your custom file.
 
 Edit it to look like this: 
 
-	"objectSpawnersArr": ["custom/cherno-weapon-showcase.json"]	
+	"objectSpawnersArr": ["custom/cherno-weapon-showcase.json"],	
 	
 If you already are calling custom jsons to spawn items or buildings, seperate the files like this:
 
-	"objectSpawnersArr": ["custom/cherno-weapon-showcase.json","custom/anotherfile.json","custom/differentfile.json"]
+	"objectSpawnersArr": ["custom/cherno-weapon-showcase.json","custom/anotherfile.json","custom/differentfile.json"],
 	
 Save your changes & upload if you need to.
 

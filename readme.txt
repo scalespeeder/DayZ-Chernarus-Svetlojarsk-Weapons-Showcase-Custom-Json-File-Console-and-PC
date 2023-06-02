@@ -4,6 +4,8 @@ Spawns a large number of weapons, attachments and ammo inside the warehouse at  
 
 Limited Testing on PC Chernarus Local Server DAYZ Version 1.18 July 2021.
 
+Updated June 2023.
+
 Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com with screenshots.
 
 If you'd like to edit & customize my Weapons Showcase, simply load "gun-show.dze" into DayZ Editor.
